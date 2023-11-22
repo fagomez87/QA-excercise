@@ -2,9 +2,9 @@
   "devDependencies": {
     "cypress": "^13.5.0"
   },
-  "name": "qa-project",
+  "name": "qa-excercise",
   "version": "1.0.0",
-  "description": "QA Automation test scenario for DEPT® candidates",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "aggregate-error": "^3.1.0",
